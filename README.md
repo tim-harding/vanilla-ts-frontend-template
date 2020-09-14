@@ -1,3 +1,3 @@
-# Vanilla Typescript Frontend Scaffold
+# Vanilla Typescript Frontend Template
 
-Webpack scaffolding for new frontend projects with plain old Typescript. 
+Webpack template for new frontend projects with plain old Typescript. 
